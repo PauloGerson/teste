@@ -1,4 +1,5 @@
-{
+[
+   {
    "nome":"Ana",
    "ano_nascimento":1984,
    "notas":{
@@ -7,3 +8,4 @@
       "n3":4
    }
 }
+]
